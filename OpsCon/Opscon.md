@@ -3,11 +3,11 @@
 > A.1 [Aperçu](#Aperçu) </br>
 > A.2 [Document de concept opérationnel](#DocConOpe) </br>
 >> A.2.1 [Portée](#Portée) </br>
-        A.2.1.1 [Identification](#Identification)
-        A.2.1.2 [Aperçu du document](#Aperçu1)
-        A.2.1.3 [Aperçu du système](#Aperçu2)
-    A.2.2 [Documents de référence](#DocRef)
-    A.2.3 [Système actuel](#SysAct)
+>>>  A.2.1.1 [Identification](#Identification) </br>
+>>>  A.2.1.2 [Aperçu du document](#Aperçu1) </br>
+>>>  A.2.1.3 [Aperçu du système](#Aperçu2) </br>
+>> A.2.2 [Documents de référence](#DocRef) </br>
+>> A.2.3 [Système actuel](#SysAct) </br>
         A.2.3.1 [Passé du système, objectifs et portée](#PasObjPor)
         A.2.3.2 [Politiques et contraintes opérationnelles](#PolConOpe)
         A.2.3.3 [Description du système actuel](#DesSys)
