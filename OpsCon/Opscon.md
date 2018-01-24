@@ -36,6 +36,7 @@
             * A.2.5.5.4 [Autre personnel impliqué](#AutPerImp2) </br>
         * A.2.5.6 [Environnement de support](#EnvSup2) </br>
     * A.2.6 [Scénarios opérationnels](#SceOpe) </br>
+</br></br></br>
     * A.2.7 [Sommaire des impacts](#SomImp) </br>
         * A.2.7.1 [Impacts opérationnels](#ImpOpe) </br>
         * A.2.7.2 [Impacts organisationnels](#ImpOrg) </br>
